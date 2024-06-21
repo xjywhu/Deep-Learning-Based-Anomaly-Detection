@@ -3436,11 +3436,8 @@ Contributed by Chunyang Zhang.
 
 1. **Spatial-aware attention generative adversarial network for semi-supervised anomaly detection in medical image.** MICCAI, 2024. [paper](https://arxiv.org/abs/2405.12872)
 
-   *Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, Rui Yu, Zhou Zhao, and Yongchao Xu.* 
+   *Zerui Zhang, Zhichao Sun, Zelong Liu, Bo Du, Rui Yu, Zhou Zhao, and Yongchao Xu.*
 
-1. **Make your home safe: Time-aware unsupervised user behavior anomaly detection in smart homes via loss-guided mask.** MICCAI, 2024. [paper](https://arxiv.org/abs/2406.10928)
-
-   *Xiao Jingyu, Xu Zhiyao, Zou Qingsong, Li Qing, Zhao Dan, Fang Dong, Li Ruoyu, Tang Wenxin, Li Kang, Zuo Xudong, Hu Penghui, Jiang Yong, Weng Zixuan, and Lyv.R Michael.* 
 
 ### [Robotics](#content)
 1. **Proactive anomaly detection for robot navigation with multi-sensor fusion.** RAL, 2023. [paper](https://ieeexplore.ieee.org/document/9720937)
@@ -3478,7 +3475,11 @@ Contributed by Chunyang Zhang.
 
 1. **Hybrid resampling and weighted majority voting for multi-class anomaly detection on imbalanced malware and network traffic data.** Engineering Applications of Artificial Intelligence, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623017529)
 
-   *Liang Xue and Tianqing Zhu.* 
+   *Liang Xue and Tianqing Zhu.*
+
+1. **Make your home safe: Time-aware unsupervised user behavior anomaly detection in smart homes via loss-guided mask.** KDD, 2024. [paper](https://arxiv.org/abs/2406.10928)
+
+   *Jingyu Xiao, Zhiyao Xu, Qingsong Zou, Qing Li, Dan Zhao, Dong Fang, Ruoyu Li, Wenxin Tang, Kang Li, Xudong Zuo, Penghui Hu, Yong Jiang, Zixuan Weng, and Michael R.Lyu.* 
 
 ### [Diagnosis](#content)
 1. **Transformer-based normative modelling for anomaly detection of early schizophrenia.** NIPS, 2022. [paper](https://arxiv.org/abs/2212.04984)
